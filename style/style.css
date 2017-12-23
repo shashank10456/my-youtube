@@ -16,6 +16,7 @@
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
+    background: aliceblue;
 }
 
 .list-group-item {
@@ -23,7 +24,7 @@
 }
 
 .list-group-item:hover {
-    background-color: #eee;
+    background-color: orchid;
 }
 
 
